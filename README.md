@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://i.imgur.com/sPXdtwJ.jpg" width="450px" height="180px" style="max-width:100%;">
+<img src="https://i.imgur.com/MRxZTYl.jpg" width="450px" height="180px" style="max-width:100%;">
 <h1>FAQ - Team LifeKing</h1>
 </div>
 
