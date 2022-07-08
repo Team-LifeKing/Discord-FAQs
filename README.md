@@ -1,12 +1,12 @@
 <div align="center">
-<img src="https://i.imgur.com/MRxZTYl.jpg" width="450px" height="180px" style="max-width:100%;">
+<img src="https://i.imgur.com/SU2ioYU.jpg" width="450px" height="180px" style="max-width:100%;">
 <h1>FAQ - Team LifeKing</h1>
 </div>
 
 #### Here are some of the most asked questions and their answers please don't ping the staff unnecessarily for these questions and if they are asked again we may not answer it.
 
 **#1: How to apply for an official position?**
-- You have to see  #𒋨・mod-requirements  Channel. If you are not  get verified as @👫 〢𒆜 Verified Members from #𒋨・verification  Channel then You Cannot access.
+- You have to see  #✠│mod-requirements  Channel. If you are not  get verified as @👫 〢𒆜 Verified Members from #✠│verification  Channel then You Cannot access.
 
 **#2: How to boost server?**
 - Boosting the server will give you a @💎 〢𒆜 Nitro Boosters  role. Boosting the server helps in increasing the server level which gives many features and perks to the server.
@@ -24,7 +24,7 @@
 
 **#5: How to suggest anything about this server?**
 - If you want to suggest anything about this server and want to help the Management team with your innovative ideas. Feel free to suggest it, we really appreciate such participation.
-- Go to #𒋨・suggestion-cmnds and suggest by using this command 
+- Go to #✠│suggestion-cmnds and suggest by using this command 
 `.suggest <your_suggestion>`.
 Example: `.suggest add count game`.
 
